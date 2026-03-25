@@ -1,0 +1,15 @@
+const elementName = null;
+const elementStatus = null;         
+const elementValue = null;
+const elementType = null;
+const elementInfo = null;
+let classification = "Sin clasificar";
+const statusLabel = "";
+let typeLabel = "Sin tipo";
+const displayName = "";
+const infoDetail = "";
+const safeProperty = "";
+console.log("=".repeat(40));
+console.log("FICHA DE CLASIFICACIÓN");
+console.log("=".repeat(40));
+console.log("=".repeat(40));
